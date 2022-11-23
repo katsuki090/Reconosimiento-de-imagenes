@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(23, 94, 112);
+    color: rgb(255, 255, 255);
+}
+button {
+    background-color: rgb(255, 255, 255);
+    color: rgb(23, 94, 112);
+}
+#camara {
+    border-style:dotted;
+    width: 350px;
+    height: 280px;
+    border-color: rgb(255, 255, 255);
+}
